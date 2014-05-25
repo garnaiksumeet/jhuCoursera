@@ -17,7 +17,7 @@
 * subjectTest - contains data of subject_test.txt
 * subjectTrain - contains data of subject_train.txt
 
-##### Intermediate data consisiting of combination of few of the raw data read from the files
+##### Intermediate variables consisiting of combination of few of the raw data read from the files
 * dataTest - Merged Test data from subjectTest, xTest, yTest, activityLabels
 * dataTrain - Merged Train data from subjectTrain, xTrain, yTrain, activityLabels
 * dataMerged - Merged Train and Test Data along with headers
