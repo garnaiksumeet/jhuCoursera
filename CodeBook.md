@@ -1,0 +1,1 @@
+### This document explains all the values computed in run_analysis.R along with bit of explaining of the code.
