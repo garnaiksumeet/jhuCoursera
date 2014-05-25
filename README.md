@@ -9,7 +9,7 @@ jhuCoursera
 * 'features.txt' - List of all features.
 * 'activity_labels.txt' - Links the class labels with their activity name.
 
-### Files Used in the analysis for tidy data produced in 'run_analysis.R'
+### Files Used in the analysis for tidy data produced by 'run_analysis.R'
     All paths are relative to the current directory location in Linux path location format.
 * ./test/subject_test.txt
 * ./test/X_test.txt
