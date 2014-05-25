@@ -64,5 +64,5 @@ colnames(resultData) <- headRows
 dataMelt <- melt(resultData, id = c("subject","activitylabel"))
 tidyData <- dcast(dataMelt, subject + activitylabel~variable, mean)
 
-## return the tidy data
+## resulted the tidy data
 tidyData
