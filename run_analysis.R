@@ -4,6 +4,7 @@
 install.packages("rapport")
 install.packages("gdata")
 install.packages("plyr")
+install.packages("reshape2")
 
 ## load the packages into the current environment
 library(plyr)
