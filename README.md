@@ -2,7 +2,7 @@ jhuCoursera
 ===========
 ## Getting and Cleaning Data
   For the working of the script [run_analysis.R](./run_analysis.R) please refer to [CodeBook.md](./CodeBook.md)
-* [run_analysis.R](./run_analysis.R) - The script that cleans up the data and produces a tidy data that consists of only the data of the mean measurements and standard deviation measurements of the experiment performed by SmartLab on Wearable Computing.
+* [run_analysis.R](./run_analysis.R) - The script that cleans up the data and produces a tidy data that consists of only the mean of data of the mean measurements and standard deviation measurements of various datasets of the experiment performed by SmartLab on Wearable Computing.
 * [README.txt](./README.txt) - The file consisting the details of the experimental data released by the researchers of SmartLab.
 * [tidy.txt](./tidy.txt) - The raw file containing the tidy data produced from 'run_analysis.R' script.
 * Directories ./test and ./train consist of the measured data for Test Set and Train Set respectively.
